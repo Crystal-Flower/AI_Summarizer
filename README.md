@@ -30,8 +30,7 @@
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone [https://github.com/your-username/ai-summarizer.git](https://github.com/Crystal-Flower/AI_Summarizer.git)
-cd AI-summarizer
+git clone https://github.com/your-username/ai-summarizer.git
 ```
 
 ### 2️⃣ Install dependencies

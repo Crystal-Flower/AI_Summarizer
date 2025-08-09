@@ -72,5 +72,5 @@ streamlit run main.py
 ---
 
 💬 **Let's Connect!**
-If you like this project or want to collaborate, feel free to reach out on [LinkedIn]([https://www.linkedin.com/in/anandhappriya-s-b46697343/]).
+If you like this project or want to collaborate, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/anandhappriya-s-b46697343/).
 

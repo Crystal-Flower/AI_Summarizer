@@ -66,8 +66,8 @@ streamlit run main.py
 * Extracting key points from technical documents
 
 ## 📸 Screenshot
-
-*(Add your app screenshot here)*
+![Image](https://github.com/Crystal-Flower/AI_Summarizer/blob/main/Screenshot%202025-08-09%20230757.png?raw=true)
+![Image](https://github.com/Crystal-Flower/AI_Summarizer/blob/main/Screenshot%202025-08-09%20231041.png?raw=true)
 
 ---
 
